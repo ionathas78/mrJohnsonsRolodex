@@ -1,0 +1,25 @@
+package mrJohnsonsRolodex;
+
+public enum SRMetatype {
+	HUMAN,
+	CYCLOPS,
+	DRYAD,
+	DWARF,
+	ELF,
+	FOMORI,
+	GHOUL,
+	GIANT,
+	GNOME,
+	HOBGOBLIN,
+	KOBOROKURU,
+	MENEHUNE,
+	MINOTAUR,
+	NIGHTONE,
+	OGRE,
+	ONI,
+	ORK,
+	SATYR,
+	SHAPESHIFTER,
+	TROLL,
+	WAKYAMBI
+}
